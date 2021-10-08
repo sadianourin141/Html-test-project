@@ -1,0 +1,96 @@
+.form-inline{
+    width:300px;
+    margin-left: 240px;
+    
+}
+.fb{
+    margin-left: 20px;
+}
+a.navbar-brand{
+    color: orange;
+}
+.nasir-cars{
+    color: #EC9005;
+}
+    button.sell{
+        width: 80px;
+    }
+    li.sell-left{
+        margin-left: 10px;
+    }
+    li.home-left{
+        margin-left: 260px;
+    }
+    .orange{
+        height:1366 ;
+        width:50;
+        background-color: #EC9005;
+    }
+    h4.text{
+        color:white;
+        margin-left: 120px;
+        padding: 10px;
+    }
+    .col-5{
+        height: 583px;
+        width:490px;
+        border:none;
+        box-shadow: gray 4px 5px 10px;
+    }
+    .make{
+        height: 40px;
+        width:98px;
+        background-color: #DEF0F9;
+        padding: 12px;
+        margin-top: 15px;
+    }
+    .choose{
+        background-color: #F1F8FF;
+        padding: 10px;
+        margin-top: 15px;
+
+    }
+    .condition{
+        padding: 15px;
+    }
+    .first-gridbox{
+        margin-top: 20px;
+        height: 203px;
+        width:736px;
+        border:none;
+        box-shadow:gray 4px 5px 10px ;
+    }
+    section{
+        width:1270px;
+        height:160px;
+        background-image: url("file:///F:/HTML%20TEST%20PROJECT/resources/38e391b43e8a09c42077b7d93eafc275");
+       background-size: 1090px 320px;
+       position:relative;
+        overflow: hidden;
+        margin-left: 110px;
+        
+    }
+    .overlay{
+        position: absolute;
+        
+        height: 100%;
+        width: 100%;
+        background-color: #ec90056b;
+    }
+    .card{
+        margin-left: 17px;
+        height: 320px;
+        width: 370px;
+        box-shadow: gray 4px 5px 10px;
+    }
+    .flex{
+        display: inline;
+    }
+    .toyota{
+        height:200px;
+        width:100px;
+        box-shadow: gray 3px 3px 5px;
+    }
+    .white{
+        color: #DEF0F9;
+    }
